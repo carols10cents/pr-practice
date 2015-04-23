@@ -15,6 +15,7 @@ In order for people to have a place to practice *just* the process of changing a
   - Removing part of your change
   - Squashing two commits into one
   - Rebasing on the current master branch
-5. Within a few days, I **will** merge your pull request and congratulate you with emoji :)
+5. Make the change requested. Ask for help if you need it!
+6. Within a few days of you successfully making the change, I **will** merge your pull request and congratulate you with emoji :)
 
 Inspired by the [illacceptanything project](https://github.com/illacceptanything/illacceptanything).
