@@ -1,3 +1,5 @@
 Dogs are okay. Would you like a puppy?
 
 There are many different kinds of dogs.
+
+Golden retriever is one kind of dog!
